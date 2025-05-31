@@ -1,0 +1,1 @@
+Veritabanında [[Order]] objesi bulunamadığında fırlatıılacak hata tipidir. [[NotFoundException]] türetilmiştir.

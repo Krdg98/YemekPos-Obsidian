@@ -1,0 +1,113 @@
+{
+  "edges": [
+    {
+      "fromNode": "b661137e347de8a4",
+      "fromSide": "right",
+      "id": "d84d5d10e4243803",
+      "toNode": "920a55c5c286b318",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3fc9ff3bc8d7b230",
+      "fromSide": "left",
+      "id": "eb87a83b5fad11c0",
+      "toNode": "54f97ddf57d3c772",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "920a55c5c286b318",
+      "fromSide": "right",
+      "id": "3459b527aff6d283",
+      "toNode": "7caf1e540b6ff935",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7caf1e540b6ff935",
+      "fromSide": "right",
+      "id": "eed4978daffbb7df",
+      "toNode": "066269098985992f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "066269098985992f",
+      "fromSide": "right",
+      "id": "c8d31b4102924b20",
+      "toNode": "54f97ddf57d3c772",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "920a55c5c286b318",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "IMetricService",
+      "type": "text",
+      "width": 250,
+      "x": -300,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "b661137e347de8a4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "AddMetric",
+      "type": "text",
+      "width": 250,
+      "x": -680,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "3fc9ff3bc8d7b230",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Prometheus",
+      "type": "text",
+      "width": 250,
+      "x": 1080,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "7caf1e540b6ff935",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "metric-agent-topic",
+      "type": "text",
+      "width": 250,
+      "x": 38,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "066269098985992f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "MetricBackgroundService",
+      "type": "text",
+      "width": 250,
+      "x": 379,
+      "y": -121
+    },
+    {
+      "height": 60,
+      "id": "54f97ddf57d3c772",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "/metric",
+      "type": "text",
+      "width": 250,
+      "x": 740,
+      "y": -120
+    }
+  ]
+}

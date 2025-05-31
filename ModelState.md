@@ -1,0 +1,1 @@
+Microsoft'un Rest isteklerinde gelen veriyi kontrol ettiği yapı. Gelen veri ile Modeldeki değişkenin tiplerinin uygunluğunu kontrol eder.

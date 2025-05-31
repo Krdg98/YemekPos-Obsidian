@@ -1,0 +1,1 @@
+Fırlatılacak hatalar bu class tan türetilmedir. Amaç Tüm hata tiplerinde olması gereken '**StatusCode**' ve '**Message**' alanın olması ve gerekli olarak doldurulma koşulunun eklenmesidir.

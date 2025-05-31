@@ -1,0 +1,1 @@
+Veritabanında [[ProductMatch]] objesi bulunamadığında fırlatıılacak hata tipidir. [[NotFoundException]] türetilmiştir.

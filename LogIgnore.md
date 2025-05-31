@@ -1,0 +1,1 @@
+Bu bir Attribute dir ve amacı Loglama işleminde gelem modelin içerisinde logta görünmesini istenmeyen filed veya property işaretleyip **JsonSerializerSettings** ile logta olmasını engelliyoruz.

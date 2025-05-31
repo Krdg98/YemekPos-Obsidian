@@ -1,0 +1,1 @@
+Veritabanında [[PlatformConfig]] objesi bulunamadığında fırlatıılacak hata tipidir. [[NotFoundException]] türetilmiştir.

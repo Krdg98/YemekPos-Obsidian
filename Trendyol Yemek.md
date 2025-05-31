@@ -1,0 +1,1 @@
+Müsteri telefon numara "**CalCenter/OrderNumber=>OrderCode**" şeklinde ayarlandı

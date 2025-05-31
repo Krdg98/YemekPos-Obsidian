@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "028571c817bdcf46",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc175a0b8106ff6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4379e95c86964b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metrics Agent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metrics Agent"
+            }
+          },
+          {
+            "id": "a59ce508570c6303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LogIgnore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LogIgnore"
+            }
+          },
+          {
+            "id": "f0f74481b7818947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GRPC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GRPC"
+            }
+          },
+          {
+            "id": "df76f4db9e9e7da1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yemeksepeti.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yemeksepeti"
+            }
+          },
+          {
+            "id": "603be74cdd3b2099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "K6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K6"
+            }
+          },
+          {
+            "id": "a97b4573e88b8de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "K6 Order Hub Test Senaryosu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K6 Order Hub Test Senaryosu"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52fcf30b7ed324f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0072b80032f637eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d632c2eb443ff3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dosya Gezgini"
+            }
+          },
+          {
+            "id": "4f860c4d29e30504",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ara"
+            }
+          },
+          {
+            "id": "c0a769c892828e72",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Yer İmleri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80fe1b85d6d2fd56",
+    "type": "split",
+    "children": [
+      {
+        "id": "33061dec8627aa01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5499e68fd53890b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RestaJet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "RestaJet için geri bağlantılar"
+            }
+          },
+          {
+            "id": "57868d38affe904a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RestaJet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "RestaJet'dan giden bağlantılar"
+            }
+          },
+          {
+            "id": "138096dbfc3af7ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiketler"
+            }
+          },
+          {
+            "id": "acb257a5b826004c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "K6 Order Hub Test Senaryosu.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "K6 Order Hub Test Senaryosu ana hatları"
+            }
+          },
+          {
+            "id": "2bcaa77e52b0f1db",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "acb257a5b826004c",
+  "lastOpenFiles": [
+    "README.md",
+    "YemekPos-Obsidian/README.md",
+    "YemekPos-Obsidian",
+    "K6.md",
+    "K6 Order Hub Test Senaryosu.md",
+    "Yemeksepeti.md",
+    "Başlıksız 2.md",
+    "Başlıksız 1.md",
+    "GRPC.md",
+    "LogIgnore.md",
+    "Metrics Agent.md",
+    "Metric Agent.canvas",
+    "Projedenin Metric Üretim Diagramı.canvas",
+    "Fluent Bit.md",
+    "İptal Siparişler.md",
+    "GrafanaPanelYapı.md",
+    "Trendyol Yemek.md",
+    "TİP.md",
+    "Sorulacak Sorular.md",
+    "RestaJet Sorulacak Sorular.md",
+    "RestaJet.md",
+    "PushGateWay(Prometheus).md",
+    "Prometheus.md",
+    "ProductMatchNotFoundException.md",
+    "PlatformConfigNotFoundException.md",
+    "ProductMatch.md",
+    "PlatformConfig.md",
+    "Pasted image 20250402112911.png",
+    "OrderNotFoundException.md",
+    "Order.md",
+    "Başlıksız 1.canvas"
+  ]
+}

@@ -1,0 +1,1 @@
+Veritabanında [[CommonConfig]] objesi bulunamadığında fırlatıılacak hata tipidir. [[NotFoundException]] türetilmiştir.

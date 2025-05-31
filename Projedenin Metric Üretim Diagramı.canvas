@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"625f1ea11e51c41e","type":"file","file":"Metrics Agent.md","x":280,"y":-158,"width":400,"height":400},
+		{"id":"423b83b2132e5528","x":920,"y":-158,"width":400,"height":400,"type":"file","file":"Prometheus.md"},
+		{"id":"f687597ac89abbb5","x":1560,"y":-158,"width":400,"height":400,"type":"file","file":"Grafana.md"},
+		{"id":"00f2736e5b3bd4dc","x":-338,"y":-158,"width":400,"height":400,"type":"file","file":"Fluent Bit.md"},
+		{"id":"450469095a692189","type":"text","text":"Open Search","x":-263,"y":440,"width":250,"height":60},
+		{"id":"380189ae7abbaafc","type":"text","text":"Proje Logları","x":-880,"y":12,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"852c58072198e985","fromNode":"423b83b2132e5528","fromSide":"left","toNode":"625f1ea11e51c41e","toSide":"right"},
+		{"id":"16ffb2f38ad558ab","fromNode":"f687597ac89abbb5","fromSide":"left","toNode":"423b83b2132e5528","toSide":"right"},
+		{"id":"5c9c6ec73d6ef3ed","fromNode":"00f2736e5b3bd4dc","fromSide":"right","toNode":"625f1ea11e51c41e","toSide":"left"},
+		{"id":"52cbafa2a42276e3","fromNode":"00f2736e5b3bd4dc","fromSide":"bottom","toNode":"450469095a692189","toSide":"top"},
+		{"id":"22ffe6210cdf900f","fromNode":"00f2736e5b3bd4dc","fromSide":"left","toNode":"380189ae7abbaafc","toSide":"right"}
+	]
+}
